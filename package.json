@@ -1,0 +1,19 @@
+{
+  "name": "hilton_poc",
+  "version": "1.0.0",
+  "description": "POC GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Daniel Jones",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-scalars": "^1.9.0",
+    "pouchdb": "^7.2.2"
+  }
+}
