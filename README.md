@@ -5,7 +5,7 @@ This is available at by:
 - access by browser at http://localhost:3001
 
 ````
-# Feel free to use thes queries
+# Feel free to use these queries
 
 # single reservation
 {
